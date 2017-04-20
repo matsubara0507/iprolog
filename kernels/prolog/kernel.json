@@ -1,0 +1,6 @@
+{
+  "display_name": "Prolog",
+  "language": "prolog",
+  "argv": ["python", "/root/iprolog/prologkernel.py", "-f", "{connection_file}"],
+  "codemirror_mode": "scheme"
+}
